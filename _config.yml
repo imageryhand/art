@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: IMAGERY HAND
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Classical painting"
+url: "https://imageryhand.github.io"
+baseurl: "/art"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   imageryhand
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: classical painting
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://imageryhand.github.io/art/gallery/"  
+  - JOURNAL: "https://imageryhand.github.io/art/journal/"
+  - ABOUT: "https://imageryhand.github.io/art/about/"
 
 # All translation keys
 translations:
