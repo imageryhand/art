@@ -3,7 +3,7 @@ title: IMAGERY HAND
 email: ""
 description: "Classical painting"
 url: "https://imageryhand.github.io"
-baseurl: "/imageryhand.github.io"
+baseurl: "/art"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://imageryhand.github.io/imageryhand.github.io/gallery/"  
-  - JOURNAL: "https://imageryhand.github.io/imageryhand.github.io/journal/"
-  - ABOUT: "https://imageryhand.github.io/imageryhand.github.io/about/"
+  - GALLERY: "https://imageryhand.github.io/art/gallery/"  
+  - JOURNAL: "https://imageryhand.github.io/art/journal/"
+  - ABOUT: "https://imageryhand.github.io/art/about/"
 
 # All translation keys
 translations:
