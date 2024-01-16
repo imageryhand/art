@@ -4,7 +4,7 @@ title: "My brush holder is an old shoe"
 subtitle: "And it hides a secret!"
 active: "journal"
 image:
-  feature: "note.jpg"
+  feature: "shoe1.jpg"
 date: "2024-01-16"
 header-img: "img/postcover/note.jpg"
 comments: "false"
