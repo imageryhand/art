@@ -4,7 +4,7 @@ title: "Drawings"
 subtitle: "Pencil on paper"
 active: "journal"
 image:
-  feature: "shoe1.jpg"
+  feature: "01.jpg"
 date: "2024-01-16"
 header-img: "img/postcover/01.jpg"
 comments: "false"
