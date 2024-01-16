@@ -48,7 +48,7 @@ gallery11:
 	<br><br>
 			<h2>{{page.title}}</h2>
 
-<p>  Here are some pencil drawings and a oil painting sketch. Uploaded in bad quality on purpose. </p>
+<p>  Here are some pencil drawings and an oil painting sketch. Uploaded in bad quality on purpose. </p>
 
 
            <!-- Gallery __-->
