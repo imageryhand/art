@@ -4,10 +4,10 @@ title: "My brush holder is an old shoe"
 subtitle: "And it hides a secret!"
 active: "journal"
 image:
-  feature: "shoe2.jpg"
+  feature: "shoe1.jpg"
 date: "2024-01-16"
-header-img: "img/postcover/shoe2.jpg"
-comments: "true"
+header-img: "img/postcover/shoe1.jpg"
+comments: "false"
 gallery10: 
   - image_path: /img/galleries/g10/shoe1.jpg
     image-caption: Blue shoe
