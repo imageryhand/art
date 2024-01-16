@@ -6,7 +6,7 @@ active: "journal"
 image:
   feature: "shoe1.jpg"
 date: "2024-01-16"
-header-img: "img/postcover/note.jpg"
+header-img: "img/postcover/shoe1.jpg"
 comments: "false"
 gallery10: 
   - image_path: /img/galleries/g10/shoe1.jpg
