@@ -30,7 +30,7 @@ gallery11:
   - image_path: /img/galleries/g11/07.jpg
     image-caption: drawing
     image-copyright: © imageryhand
-  - image_path: /img/galleries/g11/06.jpg
+  - image_path: /img/galleries/g11/08.jpg
     image-caption: Oil painting practice!
     image-copyright: © imageryhand
 ---
