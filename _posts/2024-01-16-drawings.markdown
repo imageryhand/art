@@ -1,0 +1,65 @@
+---
+layout: "post"
+title: "Drawings"
+subtitle: "Pencil on paper"
+active: "journal"
+image:
+  feature: "shoe1.jpg"
+date: "2024-01-16"
+header-img: "img/postcover/01.jpg"
+comments: "false"
+gallery11: 
+  - image_path: /img/galleries/g11/01.jpg
+    image-caption: Girl with a leafy earring
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/02.jpg
+    image-caption: Drawing
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/03.jpg
+    image-caption: drawing
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/04.jpg
+    image-caption: drawing
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/05.jpg
+    image-caption: drawing
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/06.jpg
+    image-caption: drawing
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/07.jpg
+    image-caption: drawing
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g11/06.jpg
+    image-caption: Oil painting practice!
+    image-copyright: © imageryhand
+---
+
+
+<html class="no-js" lang="en">
+<head>
+	<meta content="charset=utf-8">
+</head>
+
+    <body>
+
+<section id="content" role="main">
+		<div class="wrapper">
+	<br><br>
+			<h2>{{page.title}}</h2>
+
+<p>  Here are some pencil drawings and a oil painting sketch. Uploaded in bad quality on purpose. </p>
+
+
+           <!-- Gallery __-->
+			
+{% include subgallery.html id="gallery11" %}
+
+<!-- end of GALLERY __ -->
+
+		</div><!-- end of WRAPPER __ -->
+	</section>
+
+
+
+
