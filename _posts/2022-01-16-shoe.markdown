@@ -30,6 +30,18 @@ gallery10:
   - image_path: /img/galleries/g10/note.jpg
     image-caption: A most mysterious note. Can you solve it?
     image-copyright: © imageryhand
+	
+	<html class="no-js" lang="en">
+<head>
+	<meta content="charset=utf-8">
+</head>
+
+    <body>
+
+<section id="content" role="main">
+		<div class="wrapper">
+	<br><br>
+			<h2>{{page.title}}</h2>
 
 
 <p> I have only recently started to paint in oils again after a long absence from traditional painting. One of the things I've forgotten about since starting to work again in a real-life workspace is that there are too many brushes, but they are all necessary.
@@ -43,6 +55,10 @@ There are the great big house painting brushes for blocking in large areas, fine
 {% include subgallery.html id="gallery10" %}
 
 <!-- end of GALLERY __ -->
+
+</div><!-- end of WRAPPER __ -->
+	</section>
+
 
 
 <p> 
