@@ -10,14 +10,23 @@ header-img: "img/postcover/shoe2.jpg"
 comments: "true"
 gallery10: 
   - image_path: /img/galleries/g10/shoe1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
+    image-caption: Blue shoe
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g10/shoe2.jpg
+    image-caption: So blue!
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g10/shoe3.jpg
+    image-caption: Best brush holder ever
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g10/shoe4.jpg
+    image-caption: Best brush holder ever
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g10/leaf.jpg
+    image-caption: Hmm, what does it say?
+    image-copyright: © imageryhand
+  - image_path: /img/galleries/g10/note.jpg
+    image-caption: Mysterious note. Can you solve it?
+    image-copyright: © imageryhand
 gallery2: 
   - image_path: /img/galleries/g02/bg1.jpg
     image-caption: IMAGE TITLE
